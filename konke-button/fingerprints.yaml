@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: Konke/3AFE280100510001
+    deviceLabel: Konke 1 Button
+    manufacturer: Konke
+    model: 3AFE280100510001
+    deviceProfileName: zigbee-konke-button-1

@@ -1,0 +1,16 @@
+name: zigbee-konke-button-1
+components:
+  - id: main
+    capabilities:
+      - id: battery
+        version: 1
+      - id: refresh
+        version: 1
+  - id: button1
+    capabilities:
+      - id: button
+        version: 1
+metadata:
+  mnmn: SmartThingsCommunity
+  ocfDeviceType: x.com.st.d.remotecontroller
+  vid: 9dae2a08-7a8c-38b6-a2d4-6c105d23a6d8

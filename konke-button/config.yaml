@@ -1,0 +1,4 @@
+name: 'zigbee-konke-button'
+packageKey: 'zigbee-konke-button'
+permissions:
+  zigbee: { }
